@@ -38,7 +38,6 @@ public class ArrayStorage {
                 storage[i] = null;
             }
         }
-
     }
 
     /**
